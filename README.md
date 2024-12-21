@@ -1,2 +1,18 @@
 # Calo-Assignment
-Take home task for Calo. Inc
+
+## About
+
+## Arhitecture
+
+![alt text](architecture.png)
+
+## Installation
+
+## Usage
+
+## Project Structure
+
+## License
+
+
+
